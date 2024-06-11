@@ -70,8 +70,8 @@ I am dividing my video into three series covering all essential aspects, includi
 
 **Using ChatGPT for Solution Design & Architecture:** We are using ChatGPT, a state-of-the-art language model, to enhance the conversational capabilities of our Chatbot. This technology will be crucial in understanding and generating natural language responses, making our Chatbot more interactive and user-friendly.🚀🔥
 
-hashtag#NLP hashtag#Python hashtag#FastApi hashtag#Frontend hashtag#MySQL
-hashtag#NLPChatbot hashtag#Html hashtag#CSS hashtag#Javascript 
+#NLP #Python #FastApi #Frontend #MySQL
+#NLPChatbot #Html #CSS #Javascript 
 
 
 [View more of my projects](https://github.com/ShrutiChrist?tab=repositories)
