@@ -65,7 +65,6 @@ I am dividing my video into three series covering all essential aspects, includi
 
 **Problem Statement:** A few weeks ago, I was craving food from Zomato, a popular food delivery website, but I have a specific question about the menu. Wouldn't it be convenient if this website had a customer chatbot that could provide instant answers? That's the problem we're going to solve together. 🍔🍕
 
-**Sources:** I searched for many videos on YouTube. The channel which I found most helpful and relevant for guidance is Codebasics. Dhaval Patel and Hemanand Vadivel explanation was on point. It helps me to gain business insights also along with technical skills, which is essential📺📚
 
 **Scope of Work:** It is essential, as we will focus on implementing important features. Let's understand the importance of our chosen features from a business perspective. The decision to select a vital feature is based on two factors: first, the feature's crucial role in our Chatbot's functionality, and second, its feasibility impact analysis, ensuring you're well-informed about your strategic choices. So, we had to scope our work to new orders, track orders, and offer/store hours 🌐🤝
 
