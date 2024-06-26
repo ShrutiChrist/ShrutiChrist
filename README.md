@@ -1,6 +1,6 @@
 # Hi there, I'm Shruti Indresh Ranjan 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/shruti-ranjan-3b12431b3/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/shruti-ranjan20)
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/yourhandle)](https://www.hackerrank.com/profile/shruti834)
 
 
