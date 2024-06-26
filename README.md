@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-I am a dedicated data scientist with a passion for uncovering insights from data and developing predictive models to solve complex problems. My expertise lies in Python for data analysis and machine learning, along with proficiency in SQL for data manipulation. I have experience working with various data visualization tools to communicate findings effectively. I am enthusiastic about contributing to open-source projects and continuously expanding my knowledge in data science and related technologies. Here's a bit more about me:
+I am a dedicated data analyst with a passion for extracting actionable insights from data and transforming complex datasets into clear, impactful narratives. My expertise lies in Python for data analysis, leveraging libraries like Pandas and NumPy for robust data manipulation and exploratory analysis. I am proficient in SQL for querying and managing relational databases, and skilled in using data visualization tools such as Excel, Tableau, and Power BI to effectively present insights. I thrive on working with diverse data sources, integrating and analyzing data to support strategic decision-making. I am committed to continuous learning and actively contribute to open-source projects, staying updated with the latest trends and technologies in data analytics. Here's a bit more about me:
 
 
 - 🌱 I’m currently learning **Python and MySQL**
